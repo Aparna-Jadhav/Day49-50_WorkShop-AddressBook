@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.container-1 {
+  text-transform: uppercase;
+  font-weight: 80;
+  height: 100px;
+}
+
+.container {
+  text-transform: uppercase;
+  font-weight: 100;
+  padding-right: 100px;
+  align-items: center;
+  height: 80px;
+}
+h2 {
+  background-color: lightseagreen;
+  text-align: center;
+  height: 80px;
+  padding-top: 20px;
+}
